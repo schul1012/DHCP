@@ -100,6 +100,11 @@ Now I can see the scope under IPv4.<br/>
 <br/>
 
 <p align="center">
+Right-click on 'Server Options', click 'Configure Options' and make sure Router service is running.<br/>
+<img width="1172" height="836" alt="image" src="https://github.com/user-attachments/assets/55907757-5649-4a7f-b177-d2ec5589dc1c" />
+
+
+<p align="center">
 The next step is to bulk-create users with a PowerShell script.<br/>
 <br/>
 <br/>
