@@ -94,12 +94,15 @@ Right click on the server and refresh to make sure that everything is in effect.
 <br/>
 
 <p align="center">
-Now I can see that the scope under IPv4.<br/>
+Now I can see the scope under IPv4.<br/>
 <img width="1153" height="542" alt="image" src="https://github.com/user-attachments/assets/6330d0d8-43c5-47c2-8bf4-ff154e8febf4" />
 <br/>
 <br/>
 
-
+<p align="center">
+The next step is to bulk-create users with a PowerShell script.<br/>
+<br/>
+<br/>
 
 
 
