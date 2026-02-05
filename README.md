@@ -80,7 +80,7 @@ Add the default gateway address and click on 'Next'.<br/>
 <br/>
 
 <p align="center">
-Click on 'Next' repeatedly and then 'Install'.<br/>
+Click on 'Next' repeatedly and then 'Finish'.<br/>
 <img width="510" height="425" alt="image" src="https://github.com/user-attachments/assets/2503c20b-b4f1-4f2b-95ff-b154c61c53ef" /><br/>
 <img width="1171" height="843" alt="image" src="https://github.com/user-attachments/assets/78b56333-dc17-4ea3-b122-662bdbf234db" /><br/>
 <img width="1175" height="838" alt="image" src="https://github.com/user-attachments/assets/44e371ec-1483-4b17-af0c-d72bbcaff60d" /><br/>
@@ -89,7 +89,7 @@ Click on 'Next' repeatedly and then 'Install'.<br/>
 <br/>
 
 <p align="center">
-Right click on the server and refresh to make sure that everything is in effect.<br/>
+Right-click on the server and refresh to make sure that everything is in effect.<br/>
 <img width="763" height="543" alt="image" src="https://github.com/user-attachments/assets/3ab7f17c-7bcb-4e6f-8534-3066b17d442d" />
 <br/>
 <br/>
@@ -101,12 +101,12 @@ Now I can see the scope under IPv4.<br/>
 <br/>
 
 <p align="center">
-Right-click on 'Server Options', click 'Configure Options' and make sure Router service is running.<br/>
+Right-click on 'Server Options', click on 'Configure Options' and make sure Router service is running.<br/>
 <img width="1172" height="836" alt="image" src="https://github.com/user-attachments/assets/55907757-5649-4a7f-b177-d2ec5589dc1c" />
 
 
 <p align="center">
-The next step is to bulk-create users with a PowerShell script.<br/>
+The next step is to <a href="https://github.com/schul1012/Bulk-creating-New-Users-with-a-Powershell-Script/tree/main">bulk-create users with a PowerShell script.</a><br/>
 <br/>
 <br/>
 
