@@ -8,6 +8,7 @@ A walkthrough of configuring DHCP on the domain controller.
 <h2>Prerequisites</h2>
 
 - <b><a href="https://github.com/schul1012/Setting-up-network-of-a-domain-controller-and-a-client/tree/main">Setting up a Domain Controller and a Client, Using VirtualBox</a></b><br/>
+- <b>[TCP/IP and Joining a Domain](https://github.com/schul1012/TCP-IP-and-domain-setup-between-DC-and-a-client/tree/main)
 - <b><a href="https://github.com/schul1012/Active-Directory-Domain-Setup/blob/main/README.md">Active Directory Domain Setup</a></b><br/>
 - <b><a href="https://github.com/schul1012/NAT/tree/main">RAS and NAT configuration</b><br/>
 
